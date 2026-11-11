@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ONG Sonhos em Ação — Landing page
 
 Site institucional responsivo em React, TypeScript e Vite, desenvolvido como proposta de projeto de extensão universitária.
@@ -5,12 +6,20 @@ Site institucional responsivo em React, TypeScript e Vite, desenvolvido como pro
 ## Rodar localmente
 
 Requer Node.js 20 ou superior.
+=======
+# ONG Sonhos em Ação
+
+Landing page institucional desenvolvida como projeto de extensão universitária.
+
+## Executar
+>>>>>>> 73b4671ce13afa1981a7200312d9b45c6c3082d0
 
 ```bash
 npm install
 npm run dev
 ```
 
+<<<<<<< HEAD
 Acesse o endereço indicado no terminal (normalmente http://localhost:5173).
 
 ## Publicar na Vercel
@@ -40,3 +49,10 @@ Acesse o endereço indicado no terminal (normalmente http://localhost:5173).
 ## Imagens
 
 Arquivos em `public/images/` foram extraídos dos materiais fornecidos no chat, incluindo capturas de tela. A qualidade final melhora com fotografias originais.
+=======
+## Publicar
+
+Vite: `npm run build` gera `dist/`.
+
+**Nota:** esta versão inicial do repositório ainda não inclui as fotografias originais da ONG. Antes de publicar fotografias de crianças, confirme as autorizações necessárias.
+>>>>>>> 73b4671ce13afa1981a7200312d9b45c6c3082d0
